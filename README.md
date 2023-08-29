@@ -26,7 +26,7 @@ I want to add TypeScript to my stack soon.
 
 <br />
 
-## <a href="https://play.google.com/store/apps/details?id=com.yusuferarslan.sagesnap"><img class="logo" src="https://i.ibb.co/QC7TQ3Q/logo.png" alt="logo" border="0"></a> Try My App on PlayStore
+## <a href="https://play.google.com/store/apps/details?id=com.yusuferarslan.sagesnap"><img src="https://i.ibb.co/QC7TQ3Q/logo.png" alt="logo" border="0" style="width:70px; margin-bottom:-20px;"></a> Try My App on PlayStore
 
 SageSnap AI enables users to connect with an artificial intelligence-based assistant for
 instant conversations and interactions. With just a few taps, you can access information,
@@ -66,10 +66,3 @@ ask questions, and engage in conversations.
 
 <br />
 
-
-<style>
-.logo{
-    width:70px;
-    margin-bottom:-20px;
-}
-</style>
