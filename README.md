@@ -1,9 +1,60 @@
 ## Hi there, I'm Yusuf.
 <br />
 
-- :mortar_board: I'm 23 years old and i graduated from Math/Computer.
-- :seedling: I have been working on Flutter&Dart over 1 year.
-- :zap: I'm still learning and trying to catching innovations about Flutter.
+- :mortar_board: I'm 24 years old and i graduated from Math/Computer.
+- :seedling: I have been working over 2 years as a Software Engineer.
+- :zap: I can develope web apps,mobile apps, backend systems etc.
+
+
+## 🔨 Stack 
+
+- Cloud Computing : Google Cloud Computing, Oracle
+- ServerSide : Linux shell, Docker, DevOps
+- Integration : Google APIs, Azure Cognitive Services, Firebase
+- Database : Graphql, Postgresql, Hasura
+- Back-end : Dart, JS
+- Front-end : Flutter, Svelte
+
+
+----------------------------------------------------------------------
+
+I started my journey with Flutter, then i started to learn other technologies which i mentioned on Stack part. 
+I like to use different technologies to improve my skills. I'm currently working and learning on Domain Driven Design
+and Functional Programming.
+I want to add TypeScript to my stack soon. 
+
+
+<br />
+
+## <a href="https://play.google.com/store/apps/details?id=com.yusuferarslan.sagesnap"><img class="logo" src="https://i.ibb.co/QC7TQ3Q/logo.png" alt="logo" border="0"></a> Try My App on PlayStore
+
+SageSnap AI enables users to connect with an artificial intelligence-based assistant for
+instant conversations and interactions. With just a few taps, you can access information,
+ask questions, and engage in conversations.
+<!-- BLOG-POST-LIST:START -->
+- [SageSnap AI](https://www.linkedin.com/feed/update/urn:li:activity:6935275500370026496/)
+<!-- BLOG-POST-LIST:END -->
+
+
+<br />
+
+<br />
+
+## :blue_book: My Latest Works
+
+<!-- BLOG-POST-LIST:START -->
+- [Instagram Tracking and Analysis Application](https://www.linkedin.com/feed/update/urn:li:activity:6935275500370026496/)
+- [Gymbro Mobile](https://github.com/yusuferarsln/gymbro)
+- [Gymbro Web](https://github.com/yusuferarsln/gymbro_web)
+- [Gymbro Shelf](https://github.com/yusuferarsln/gymbro_shelf)
+
+
+
+<!-- BLOG-POST-LIST:END -->
+
+
+<br />
+
 
 <br />
 
@@ -15,32 +66,10 @@
 
 <br />
 
-## 🔨 Stack 
 
-Flutter Stack
-
-- Flutter: Firebase, REST APIS, MobX etc.
-- Dart: OOP
-- Postman
-
-
-<br />
-
-## :blue_book: My Latest Works
-
-<!-- BLOG-POST-LIST:START -->
-- [Instagram Tracking and Analysis Application](https://www.linkedin.com/feed/update/urn:li:activity:6935275500370026496/)
-<!-- BLOG-POST-LIST:END -->
-
-
-<br />
-
-<details open>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=yusuferarsln&theme=radical" >
-</details>
-
-<details open>
-<summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuferarsln&layout=compact" >
-</details>
+<style>
+.logo{
+    width:70px;
+    margin-bottom:-20px;
+}
+</style>
